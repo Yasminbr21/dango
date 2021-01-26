@@ -1,0 +1,26 @@
+button{
+	font-family: sans-serif;
+	padding: 15px 20px;
+	background: #696969;
+	color: #FFFFFF;
+	box-shadow: .5px .5px 1px;
+	border-radius: 10px;
+
+}
+
+textarea{
+	border-radius: 10px;
+}
+
+input{
+	padding: 10px;
+	border-radius: 10px;
+}
+
+hr{
+	color: #CDC9C9;
+}
+
+#header{
+	background: #CDC9C9;
+}
